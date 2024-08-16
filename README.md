@@ -1,8 +1,17 @@
-# React + Vite
+BlogPost957
+BlogPost957 is a React web application for reading and bookmarking blogs. Easily browse, read, and save your favorite blog posts!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo
+Check out the live demo https://blogpost957.netlify.app/.
 
-Currently, two official plugins are available:
+Features
+Browse a list of blogs
+Read full blog posts
+Bookmark your favorites
+Responsive design for all devices
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack
+React
+React Router
+CSS
+JavaScript
