@@ -1,6 +1,6 @@
-# BlogPost957
+# BlogPost
 
-BlogPost957 is a React web application designed for browsing and bookmarking blogs. Users can explore various blog posts, read them in detail, and save their favorite ones for easy access.
+BlogPost is a React web application designed for browsing and bookmarking blogs. Users can explore various blog posts, read them in detail, and save their favorite ones for easy access.
 
 ## Live Demo
 
